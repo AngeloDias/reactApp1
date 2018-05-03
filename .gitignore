@@ -76,9 +76,6 @@ fastlane/screenshots
 # Watchman
 .watchmanconfig
 
-# Android
-/android/
-
 # Node
 node_modules
 *.log
