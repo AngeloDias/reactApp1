@@ -13,6 +13,9 @@ import java.util.List;
 
 public class MainApplication extends Application implements ReactApplication {
 
+  /*
+  * My comment
+  */
   private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
     @Override
     public boolean getUseDeveloperSupport() {
