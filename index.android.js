@@ -1,10 +1,5 @@
-var React = require("react");
-/*var Text = require("react-native").Text;
-var View = require("react-native").View;
-var Button = require("react-native").Button;
-var AppRegistry = require("react-native").AppRegistry;*/
-
-var {Text, View, Button, AppRegistry} = require("react-native");
+import React from 'react';
+import {Text, View, Button, AppRegistry} from 'react-native';
 
 const geraNumRand = () => {
 	alert (Math.floor(Math.random() * 10));
